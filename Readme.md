@@ -12,14 +12,21 @@ If you have any other problems, please refer to the [Bamboo P1S Quick Start Guid
       ![image](https://github.com/user-attachments/assets/7ff87cfd-14ee-4c0b-af9a-83fd65998be9)
 
       You can use this to monitor your 3d-printing.
+
+      Existing account: csl.studio9@gmail.com
+      password: CSL.studio9
       
       Wifi: ViconRouter
       
       Password: ViconRouter
 
-3. Import the model into the Bamboo Studio software. You could download it here: https://bambulab.com/en/download/studio
+4. Import the model into the Bamboo Studio software. You could download it here: https://bambulab.com/en/download/studio
 
      `Important:` make sure to use the same account and password with your Bamboo handy.
+   
+      Existing account: csl.studio9@gmail.com
+   
+      password: CSL.studio9
 
 ### Step 2: Load Filament
 1. to change your filament, please refer to https://wiki.bambulab.com/en/p1/manual/replacing-filament
