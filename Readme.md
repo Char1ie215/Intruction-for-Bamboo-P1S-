@@ -7,9 +7,15 @@ If you have any other problems, please refer to the [Bamboo P1S Quick Start Guid
 
 ### Step 1: Prepare Your 3D Model
 1. Ensure that your 3D model is in a compatible format, such as `.stl` or `.obj`.
-2. download Bamboo handy by scanning the QR code here:
+2. download Bamboo handy by scanning the QR code here(remember to open the bluetooth):
 
   ![image](https://github.com/user-attachments/assets/7ff87cfd-14ee-4c0b-af9a-83fd65998be9)
+
+  You can use this to monitor your 3d-printing.
+  
+  Wifi: ViconRouter
+  
+  Password: ViconRouter
 
 3. Import the model into the Bamboo Studio software. You could download it here: https://bambulab.com/en/download/studio
 
@@ -17,7 +23,7 @@ If you have any other problems, please refer to the [Bamboo P1S Quick Start Guid
 1. to change your filament, please refer to https://wiki.bambulab.com/en/p1/manual/replacing-filament
 2. If you want to do multi-color printing, please refer to https://wiki.bambulab.com/en/software/bambu-studio/multi-color-printing
    
-   Noted: this link does not contain how to put on the materials, here is an reference image:
+   This link does not contain how to put on the materials, here is an reference image:
    
 ![image](https://github.com/user-attachments/assets/c8f969d9-bed6-4bb2-93a8-eb9fa02390f2)
 
