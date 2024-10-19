@@ -2,7 +2,8 @@
 
 ## Printing Instructions
 
-This instruction including loading/unloading filament and transferring files to the printer.
+This instruction including some basic printing information about Bamboo P1S.
+
 If you have any other problems, please refer to the [Bamboo P1S Quick Start Guide]: https://wiki.bambulab.com/en/p1/manual/p1s-quick-start-guide
 
 ### Step 1: Prepare Your 3D Model
