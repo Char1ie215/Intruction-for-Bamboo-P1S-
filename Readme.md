@@ -9,15 +9,17 @@ If you have any other problems, please refer to the [Bamboo P1S Quick Start Guid
 1. Ensure that your 3D model is in a compatible format, such as `.stl` or `.obj`.
 2. download Bamboo handy by scanning the QR code here(remember to open the bluetooth):
 
-  ![image](https://github.com/user-attachments/assets/7ff87cfd-14ee-4c0b-af9a-83fd65998be9)
+      ![image](https://github.com/user-attachments/assets/7ff87cfd-14ee-4c0b-af9a-83fd65998be9)
 
-  You can use this to monitor your 3d-printing.
-  
-  Wifi: ViconRouter
-  
-  Password: ViconRouter
+      You can use this to monitor your 3d-printing.
+      
+      Wifi: ViconRouter
+      
+      Password: ViconRouter
 
 3. Import the model into the Bamboo Studio software. You could download it here: https://bambulab.com/en/download/studio
+
+     `Important:` make sure to use the same account and password with your Bamboo handy.
 
 ### Step 2: Load Filament
 1. to change your filament, please refer to https://wiki.bambulab.com/en/p1/manual/replacing-filament
@@ -28,29 +30,25 @@ If you have any other problems, please refer to the [Bamboo P1S Quick Start Guid
 ![image](https://github.com/user-attachments/assets/c8f969d9-bed6-4bb2-93a8-eb9fa02390f2)
 
 
-### Step 3: Connect the Printer and Transfer Files
-1. **Connect the Printer to Wi-Fi**:
-   - Ensure that the Bamboo P1S is powered on.
-   - Go to the printer's settings menu and select `Wi-Fi Setup`.
-   - Follow the on-screen instructions to connect the printer to your local Wi-Fi network.
 
-2. **Connect Bamboo Studio to the Printer**:
-   - Open Bamboo Studio on your computer.
+
+### Step 3: Connect the Printer and Transfer Files
+1. Connect the Printer to Wi-Fi
+
+2. Connect Bamboo Studio to the Printer:
    - Go to `Device` settings in Bamboo Studio and search for available devices.
    - Select your Bamboo P1S printer from the list and connect to it. Ensure that both your computer and the printer are on the same Wi-Fi network.
 
-3. **Transfer the File**:
-   - In Bamboo Studio, select the model and configure the print settings.
-   - Click the `Send` button to transfer the file to the Bamboo P1S.
-   - The printer will receive the file and be ready for printing.
+3. Transfer the File:
+   - Slice your model
+   - Choose printer
+   - Send
+
+**sd card choice(cannot monitor through application)**: refer to https://wiki.bambulab.com/en/p1/manual/how-to-print-from-sd-card
 
 ### Step 4: Start the Print
-1. Click on the `Print` button in Bamboo Studio or directly on the printer’s screen if the file has been successfully transferred.
-2. Wait for the printer to complete the auto-leveling and preheating process.
-3. Monitor the print progress on the screen or through the Bamboo Lab app.
+1. If you choose to use Bamboo Studio, make sure your device and the printer are in the same LAN and after sending task, the printer will start to work.
+2. If you choose to use SD card, you should follow the link https://wiki.bambulab.com/en/p1/manual/how-to-print-from-sd-card
 
-### Step 5: Unload Filament (After Print Completion)
-1. Once the print is finished and the printer has cooled down, go to the printer's main menu.
-2. Select the `Unload Filament` option.
-3. Follow the on-screen instructions to remove the filament from the extruder.
-4. Store the filament spool back in a dry, sealed container to maintain its quality.
+### Step 5: Unload Filament 
+refer to https://wiki.bambulab.com/en/p1/manual/replacing-filament
