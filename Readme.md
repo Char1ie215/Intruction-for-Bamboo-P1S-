@@ -14,11 +14,13 @@ If you have any other problems, please refer to the [Bamboo P1S Quick Start Guid
 3. Import the model into the Bamboo Studio software. You could download it here: https://bambulab.com/en/download/studio
 
 ### Step 2: Load Filament
-1. Turn on the Bamboo P1S and access the filament area.
-2. Insert the filament spool into the filament holder and feed the filament into the filament guide tube.
-3. 
-4. Press the `Load Filament` button on the printer screen.
-5. Follow the on-screen instructions to insert the filament into the extruder. Wait until the printer pulls the filament and extrudes a small amount to confirm it's loaded properly.
+1. to change your filament, please refer to https://wiki.bambulab.com/en/p1/manual/replacing-filament
+2. If you want to do multi-color printing, please refer to https://wiki.bambulab.com/en/software/bambu-studio/multi-color-printing
+   
+   Noted: this link does not contain how to put on the materials, here is an reference image:
+   
+![image](https://github.com/user-attachments/assets/c8f969d9-bed6-4bb2-93a8-eb9fa02390f2)
+
 
 ### Step 3: Connect the Printer and Transfer Files
 1. **Connect the Printer to Wi-Fi**:
