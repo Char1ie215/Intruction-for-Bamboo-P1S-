@@ -7,7 +7,9 @@ If you have any other problems, please refer to the [Bamboo P1S Quick Start Guid
 
 ### Step 1: Prepare Your 3D Model
 1. Ensure that your 3D model is in a compatible format, such as `.stl` or `.obj`.
-2. download Bamboo handy by scanning the QR code here: ![image](https://github.com/user-attachments/assets/7ff87cfd-14ee-4c0b-af9a-83fd65998be9)
+2. download Bamboo handy by scanning the QR code here:
+
+  ![image](https://github.com/user-attachments/assets/7ff87cfd-14ee-4c0b-af9a-83fd65998be9)
 
 3. Import the model into the Bamboo Studio software. You could download it here: https://bambulab.com/en/download/studio
 
